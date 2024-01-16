@@ -1,47 +1,25 @@
-CodeX-Food-Bevrage-Analysis
-🌟 Task:
+**CodeX**
 
-My role was to analyze survey data from 10,000 participants and extract meaningful insights. This helped CodeX make informed marketing decisions, increase brand awareness, and enhance product development.
+CodeX is a **German beverage** company which is recently **launched** in India. They launched their energy drink in **10 cities in India.**
 
-🌟 Approach:
-![Screenshot (20)](https://github.com/Ayush16aug/CodeX-Food_Beverage_Analysis/assets/131275647/4911456f-f1e3-4c2e-a3e3-b10307053d90)
+CodeX conducted a survey in those 10 cities and received results from 10k respondents.
+The survey was based on consumer behaviour questions like their purchasing habits, their feedback about energy drinks available in the market, pricing, packaging etc.
+The survey question file is attached at the end of this article.
 
-I utilized MySQL for conducting Query, Power BI for visual analysis, and Canva for engaging video presentations. With these tools, I discovered key findings to drive our future actions.
+Their Marketing Team wants their Data Analyst to **convert** these survey **results** to meaningful **insights** which the team can use to drive actions.
 
-🌟 Key Findings:
+The Marketing Team have asked to share certain insights. They have also asked to share meaningful recommendations from the data or external factors etc.
 
-60% of CodeX's customers are male, indicating a strong male consumer base.
 
-56% of respondents were young people, presenting an excellent opportunity to connect with the youth.
+**Problem Statements & Solutions**
 
-Online ads were the most effective and cost-efficient way to reach our target audience.
+**Demographic Insights**
 
-Consumers preferred energy drinks with caffeine and natural Ingredients.
+a. **Who** prefers energy **drinks more**? (male/female/non-binary?)
 
-Tier 2 cities showed great potential for expansion.
 
-45% preferred purchasing from supermarkets, while 25% preferred online channels.
+![Screenshot (9)](https://github.com/Ayush16aug/CodeX-Food_Beverage_Analysis/assets/131275647/85c2818e-1f5a-4f4e-aa4a-78863a479e5c)
 
-Consumers desired healthier options, including reduced sugar and natural ingredients.
+Out of **10 thousand respondents**, the number of **male respondents is 6038.**
 
-🌟 Actionable Recommendations:
-
-Collaborate with online influencers to improve online ad campaigns and expand reach.
-
-Enhance the product with natural alternatives like green tea extract and Guarana.
-
-Strategically price products for Tier 1 and Tier 2 cities.
-
-Conduct A/B Testing on packaging to find a perfect packaging.
-
-Strengthen partnerships with local supermarkets for increased visibility and availability.
-
-🌟 Suggestions for Brand Enhancement:
-
-Enhance natural caffeine content and promote mental alertness by incorporating green tea extract and Guarana.
-
-Consider Virat Kohli, a popular cricketer, as a brand ambassador to leverage his appeal among the youth and fitness enthusiasts.
-
-🌟 Conclusion:
-
-Participating in the codebasics Resume Project Challenge allowed me to analyze survey data and provide actionable insights for CodeX's marketing strategies.
+This shows **60%** of the consumers are male who prefer energy drinks more.
