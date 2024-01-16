@@ -4,6 +4,7 @@ CodeX-Food-Bevrage-Analysis
 My role was to analyze survey data from 10,000 participants and extract meaningful insights. This helped CodeX make informed marketing decisions, increase brand awareness, and enhance product development.
 
 🌟 Approach:
+![Screenshot (20)](https://github.com/Ayush16aug/CodeX-Food_Beverage_Analysis/assets/131275647/4911456f-f1e3-4c2e-a3e3-b10307053d90)
 
 I utilized MySQL for conducting Query, Power BI for visual analysis, and Canva for engaging video presentations. With these tools, I discovered key findings to drive our future actions.
 
